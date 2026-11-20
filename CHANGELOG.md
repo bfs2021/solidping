@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.52.1](https://github.com/fclairamb/solidping/compare/v0.52.0...v0.52.1) (2026-11-20)
+
+
+### Bug Fixes
+
+* **deps:** update go dependencies (non-major) ([#955](https://github.com/fclairamb/solidping/issues/955)) ([7dfbcd6](https://github.com/fclairamb/solidping/commit/7dfbcd641a8bcfd47e33c34ceb8f2931146cacf2))
+* **deps:** update module go.mongodb.org/mongo-driver/v2 to v2.10.1 ([#950](https://github.com/fclairamb/solidping/issues/950)) ([9e684c4](https://github.com/fclairamb/solidping/commit/9e684c4e28b03a6642c6b5b0137ca5aca2af5a66))
+
 ## [0.52.0](https://github.com/fclairamb/solidping/compare/v0.51.0...v0.52.0) (2026-11-19)
 
 
